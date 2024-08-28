@@ -1,1 +1,2 @@
-This is my first Git Repository Author-Mallikarjuna
+ This is my first Git Repository <br>
+ Author-Mallikarjuna
