@@ -34,3 +34,19 @@ I’m Mallikarjuna, a developer who codes with passion ❤️
 ---
 
 
+# 📊 DATA ANALYSIS
+
+Here are my key skills in data analysis:
+
+- 🟩 **Excel / Google Sheets:** ██████████ 80%  
+- 🟦 **SQL:** ████████ 70%  
+- 🟧 **Python / R:** ███████████ 90%  
+- 🟪 **Tableau / Power BI:** ████████ 70%  
+- 🟥 **Big Data:** ███ 30%  
+
+- 📈 **Statistical Analysis:** ██████████ 80%  
+- 🧹 **Data Cleaning & Preparation:** ███████████ 90%  
+- 🧠 **Critical Thinking & Problem Solving:** ██████████ 80%  
+
+
+
